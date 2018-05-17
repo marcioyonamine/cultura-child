@@ -13,8 +13,12 @@ Text Domain: cultura-child
 	
 }
 
+h1, h2, h3, h4, h5, h6{
+	color: #1e73be;
+}
+
 .content--sidebarless {
-    width: 90%;
+    width: 90% !important;
 }
 
 .site-header{
@@ -26,6 +30,7 @@ Text Domain: cultura-child
 
 .main {
   display: inline-block;
+  padding: 0px !important;
   padding-left: 2px !important;
   width: 100%; 
 }
