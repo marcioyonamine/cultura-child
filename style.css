@@ -1,0 +1,189 @@
+/* 
+Theme Name: Agenda Cultural Santo André 
+Theme URL: http://santoandre.sp.gov.br
+Description: Cultural Mapas Child Theme 
+Author: Marcio Yonamine 
+Author URL: http://santoandre.sp.gov.br
+Template: cultural-master 
+Version: 0.0.1 
+Text Domain: cultura-master-child 
+*/
+
+.main {
+  display: inline-block;
+  padding: 2%;
+  padding-left: 22%;
+  width: 100%; }
+
+.site-header{
+	width:100%;
+	position: none !important;
+	padding: 0px;	
+	background-color: transparent;
+}
+
+.site-footer{
+	background-color: #0974a3;
+}
+
+@media screen and (min-width: 450px){
+
+	#menu-linguagens{
+
+		display: inline-flex;	
+	}
+	
+	.menu{
+		display: inline-flex;	
+	
+	}
+	#menu-menu_institucional {
+		display: block;	
+	}
+
+	#menu-menu_institucional a {
+		color: white;	
+	}
+
+	#menu-menu_institucional li {
+		color: white;	
+	}
+    .textwidget{
+		width:80%;
+	}
+	
+}	
+
+@media screen and (max-width: 450px){
+
+	.swiper-wrapper{
+        display:none;
+		float:none;
+    }
+	
+	.content{
+		margin-top: -50%;	
+		
+	}
+	
+	.logo_menor{
+		
+	}
+	
+	#menu-menu_institucional {
+		display: block;	
+	}
+
+	#menu-menu_institucional a {
+		color: white;	
+	}
+
+	#menu-menu_institucional li {
+		color: white;	
+	}
+	
+}
+
+.branding img{
+	display: block !important;
+	margin: auto;		
+}
+
+.access {
+	font-family:arial !important;	
+	text-align:center;
+}
+
+#conteudo {
+    width: 100%;
+    max-width: 100%;
+    margin: 1% auto;
+	display:inline;
+}
+.cols {
+    -moz-column-count:3;
+    -moz-column-gap: 3%;
+    -moz-column-width: 30%;
+    -webkit-column-count:3;
+    -webkit-column-gap: 3%;
+    -webkit-column-width: 30%;
+    column-count: 3;
+    column-gap: 3%;
+    column-width: 30%;
+}
+
+.box{
+	display:inherit;
+	width:auto;
+	background-color:white;
+	margin: 3px;
+}
+
+.event-container{
+	background-color:white !important;	
+}
+
+.conteudo_curto{
+	font-family:arial;
+	/*font-style:italic;*/
+	font-size:20px;
+	margin-bottom:30px;
+	padding-left:20px;
+	padding-right:20px;	
+}
+
+.filter-bar{
+	background-color: #0974a3;	
+}
+
+.espaco{
+	width:100% !important;	
+}
+
+.event__time{
+font-size: 16px !important; 	
+	
+}
+.site-footer {
+	background-color:#0170a0; 
+	/* background-color:#7fb8de; */  
+	/* background-image: url("images/vinheta_fundo.png"); */
+	background-repeat: repeat-y;	
+}
+
+.footer-box{
+	float:left;
+	width: 45%;	
+	margin: 10px;
+	padding: 10px;
+}
+
+.footer-box h4{
+	background-color: #CCC; 
+	padding: 7px;
+	margin: 3px;	
+	font-size: 16px;
+	color: white;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.widget_direito{
+	float: right;
+	background-color: #fff;
+	margin-bottom: 1.5rem;
+	padding: 5px;
+	position: relative;
+	width:27%;
+}
+
+.widget_direito li{
+	padding-bottom: 5px;	
+}
+.titulo_widget{
+	margin: 0px;
+}
+
+.logo_menor{
+	display:none;
+	
+}
