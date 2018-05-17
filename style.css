@@ -13,6 +13,10 @@ Text Domain: cultura-child
 	
 }
 
+.content--sidebarless {
+    width: 90%;
+}
+
 .site-header{
 	width:100%;
 	position: unset;
