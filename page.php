@@ -7,7 +7,8 @@ the_post();
 
     <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
         <div class="hentry-wrap">
-            <h1 class="entry-title"><?php the_title(); ?></h1>
+            <h1 class="entry-title"><?php 
+			if(get_the_title() != 'inicio'){the_title();} ?></h1>
             <div class="entry-content">
                 <?php the_content(); ?>
                 <?php wp_link_pages('before=<div class="page-link">' . __('Páginas:', 'cultural') . '&after=</div>') ?>
