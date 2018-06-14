@@ -1,0 +1,105 @@
+Categorias
+
+Notícias
+	> Cinema 
+	> Cursos e Oficinas
+	> Dança
+	> Exposições
+	> Lazer
+	> Literatura 
+	> Música
+	> Palestras e Debates
+	> Teatro
+	> Festa Populares e Festivais
+	> Editais e Oportunidades
+	> Bilbiotecas
+	> Escolas Livres
+
+Conteúdo Especial
+	> Dicas de Leitura
+	> Registra
+	
+Aconteceu
+	
+Programação Cultural
+	> Cinema 
+	> Cursos e Oficinas
+	> Dança
+	> Exposições
+	> Lazer
+	> Literatura
+	> Música
+	> Palestras e Debates
+	> Teatro
+	> Festas Populares
+ 
+	
+
+	
+	
+=========================================	
+Estrutura de Menus
+
+Linguagens
+	> Cinema 
+	> Cursos e Oficinas
+	> Dança
+	> Exposições
+	> Lazer
+	> Música
+	> Palestras e Debates
+	> Teatro
+	> Festa Populares e Festivais
+	> Toda programação
+
+Principal
+	> Programação Cultural
+	> Bibliotecas
+	> Múltiplos Tons
+	> Escolas Livres
+	> Territórios de Cultura
+	> Participe!
+	
+Acesso Rápido
+	> Editais e Oportunidades
+	> Nossos espaços
+	> O que é CulturAZ
+	
+
+Rodapé
+	> Nossos espaços
+	> O que é CulturAZ
+	> Quem somos
+	> Culturômetro
+
+	
+	
+=============================================
+
+Rodapé
+
+Secretaria de Cultura - Prefeitura de Santo André
+Praça IV Centenário, s/nº - Prédio da Biblioteca - Centro
+culturaelazer@santoandre.sp.gov.br
+Facebook/CulturaPrefeituradeSantoAndre
+
+http://culturaz.santoandre.sp.gov.br
+
+
+==============================================
+
+Página Principal
+
+Logo
+Menu 
+
+Banner - Menu Rápido
+
+Notícias
+Conteúdos especiais
+
+Aconteceu em Santo André
+
+
+
+	
